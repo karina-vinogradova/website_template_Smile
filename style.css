@@ -249,6 +249,7 @@
 .aside-content {
   display: flex;
   max-width: 1600px;
+  min-width: 1600px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 125px;
