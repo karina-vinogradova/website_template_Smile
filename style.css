@@ -63,6 +63,7 @@
 .smile {
   position: relative;
   max-width: 1600px;
+  min-width: 1600px;
   margin-left: auto;
   margin-right: auto;
   background-image: url("img/Smile_joy.png");
